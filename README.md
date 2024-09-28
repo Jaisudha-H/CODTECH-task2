@@ -20,6 +20,8 @@ Integration Capabilities: Ensure the tool can integrate with existing security i
 Regular Updates: Implement a system for frequent updates to the vulnerability database to keep pace with emerging threats.
 
 **Key Features**
+
+
 Multi-Platform Support: Ability to scan web applications, databases, and network devices.
 Customizable Scans: Users can customize scan parameters based on their specific environments and needs.
 Real-Time Alerts: Immediate notifications for critical vulnerabilities discovered during scans.
